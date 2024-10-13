@@ -9,7 +9,7 @@ This repository contains the code, datasets, and models required for the paper.
 ## How to Run
 
 1. Navigate to the `code` directory.
-2. Run the script `modified_m-CNN_Persian.py`.
+2. Run the script `m-CNN_persian.py`.
 
 ## Data and Models
 
