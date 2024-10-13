@@ -14,3 +14,7 @@ This repository contains the code, datasets, and models required for the paper.
 ## Data and Models
 
 - The dataset and saved models are available in the `data` directory.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
